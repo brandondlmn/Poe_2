@@ -1,0 +1,16 @@
+New User Session: 2025/05/14 18:35:10
+User Name: Brandon
+User Interest: phishing
+[18:35:10] User entered name: Brandon
+[18:35:10] User entered interest: phishing
+interest:phishing
+[18:36:10] User asked: i am curious about phishing
+[18:36:13] Bot replied: That's great, Brandon! You asked about phishing, which matches your interest. Here's some advice: That's a great question! phishing : Look for spelling or grammar errors in emails, as these are common in phishing attempts.
+[18:36:32] User requested follow-up
+[18:36:36] Bot follow-up: That's a great question! phishing : Use email filters to block known phishing domains.
+[18:36:53] User asked: i am scared about sql
+interest:sql injection
+[18:36:57] Bot replied: I understand this might be concerning. sql injection : SQL injection involves attackers inserting malicious SQL code into input fields to manipulate databases. Remember, being aware is the first step to staying safe.
+[18:37:13] User declined follow-up
+[18:37:19] User returned to menu after asking: menu
+[18:39:42] User exited the application
